@@ -1,0 +1,7 @@
+{
+  "name": "CORTEX – Universal Cross-Domain Fraud Intelligence Engine",
+  "description": "A high-fidelity multi-agent fraud detection platform featuring causal reasoning, behavioral profiling, and deep network analysis for real-time fintech security.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
